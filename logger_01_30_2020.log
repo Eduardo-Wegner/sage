@@ -1,0 +1,770 @@
+00:13:33.203 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+00:15:39.801 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+00:25:54.028 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+00:56:46.043 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+00:57:24.029 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+00:58:12.725 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+00:58:53.758 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+00:59:29.466 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+00:01:02.573 INFO  ####  SERVER INITIALIZING  #### 
+00:01:02.573 INFO  ####  LOADING MODULES  ####
+ 
+00:01:02.573 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+00:01:02.591 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+00:01:02.591 INFO  ####  LOADING  EXPRESS #### 
+00:01:02.597 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+00:01:02.597 INFO  #### EXPRESS LOADED #### 
+00:01:02.597 INFO  ####  LOADING  MONGOOSE #### 
+00:01:02.776 INFO  #### MONGOOSE LOADED #### 
+00:01:02.795 INFO  #### ( get_data ) Event Scheduled  ####
+ 
+00:01:02.796 INFO  Listening on PORT: 5000 
+00:01:02.797 INFO  ####  SERVER INITIALIZED   #### 
+00:01:31.559 INFO  ####  SERVER INITIALIZING  #### 
+00:01:31.559 INFO  ####  LOADING MODULES  ####
+ 
+00:01:31.559 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+00:01:31.577 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+00:01:31.577 INFO  ####  LOADING  EXPRESS #### 
+00:01:31.584 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+00:01:31.584 INFO  #### EXPRESS LOADED #### 
+00:01:31.584 INFO  ####  LOADING  MONGOOSE #### 
+00:01:31.762 INFO  #### MONGOOSE LOADED #### 
+00:01:31.781 INFO  #### ( get_data ) Event Scheduled  ####
+ 
+00:01:31.782 INFO  Listening on PORT: 5000 
+00:01:31.783 INFO  ####  SERVER INITIALIZED   #### 
+01:01:35.576 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+00:30:13.018 INFO  ####  SERVER INITIALIZING  #### 
+00:30:13.018 INFO  ####  LOADING MODULES  ####
+ 
+00:30:13.018 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+00:30:13.040 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+00:30:13.040 INFO  ####  LOADING  EXPRESS #### 
+00:30:13.048 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+00:30:13.048 INFO  #### EXPRESS LOADED #### 
+00:30:13.048 INFO  ####  LOADING  MONGOOSE #### 
+00:30:13.240 INFO  #### MONGOOSE LOADED #### 
+00:30:13.261 INFO  #### ( get_data ) Event Scheduled  ####
+ 
+00:30:13.262 INFO  Listening on PORT: 5000 
+00:30:13.263 INFO  ####  SERVER INITIALIZED   #### 
+01:30:32.965 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+00:31:09.106 INFO  ####  SERVER INITIALIZING  #### 
+00:31:09.106 INFO  ####  LOADING MODULES  ####
+ 
+00:31:09.106 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+00:31:09.127 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+00:31:09.127 INFO  ####  LOADING  EXPRESS #### 
+00:31:09.135 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+00:31:09.135 INFO  #### EXPRESS LOADED #### 
+00:31:09.135 INFO  ####  LOADING  MONGOOSE #### 
+00:31:09.334 INFO  #### MONGOOSE LOADED #### 
+00:31:09.356 INFO  #### ( get_data ) Event Scheduled  ####
+ 
+00:31:09.357 INFO  Listening on PORT: 5000 
+00:31:09.358 INFO  ####  SERVER INITIALIZED   #### 
+00:32:52.307 INFO  ####  SERVER INITIALIZING  #### 
+00:32:52.307 INFO  ####  LOADING MODULES  ####
+ 
+00:32:52.307 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+00:32:52.329 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+00:32:52.329 INFO  ####  LOADING  EXPRESS #### 
+00:32:52.337 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+00:32:52.338 INFO  #### EXPRESS LOADED #### 
+00:32:52.338 INFO  ####  LOADING  MONGOOSE #### 
+00:32:52.566 INFO  #### MONGOOSE LOADED #### 
+00:32:52.588 INFO  #### ( get_data ) Event Scheduled  ####
+ 
+00:32:52.589 INFO  Listening on PORT: 5000 
+00:32:52.590 INFO  ####  SERVER INITIALIZED   #### 
+01:32:59.092 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+00:35:15.584 INFO  ####  SERVER INITIALIZING  #### 
+00:35:15.584 INFO  ####  LOADING MODULES  ####
+ 
+00:35:15.584 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+00:35:15.605 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+00:35:15.605 INFO  ####  LOADING  EXPRESS #### 
+00:35:15.611 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+00:35:15.611 INFO  #### EXPRESS LOADED #### 
+00:35:15.611 INFO  ####  LOADING  MONGOOSE #### 
+00:35:15.807 INFO  #### MONGOOSE LOADED #### 
+00:35:15.830 INFO  #### ( get_data ) Event Scheduled  ####
+ 
+00:35:15.831 INFO  Listening on PORT: 5000 
+00:35:15.832 INFO  ####  SERVER INITIALIZED   #### 
+01:35:20.453 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+00:35:56.174 INFO  ####  SERVER INITIALIZING  #### 
+00:35:56.174 INFO  ####  LOADING MODULES  ####
+ 
+00:35:56.174 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+00:35:56.194 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+00:35:56.194 INFO  ####  LOADING  EXPRESS #### 
+00:35:56.203 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+00:35:56.204 INFO  #### EXPRESS LOADED #### 
+00:35:56.204 INFO  ####  LOADING  MONGOOSE #### 
+00:35:56.401 INFO  #### MONGOOSE LOADED #### 
+00:35:56.424 INFO  #### ( get_data ) Event Scheduled  ####
+ 
+00:35:56.425 INFO  Listening on PORT: 5000 
+00:35:56.426 INFO  ####  SERVER INITIALIZED   #### 
+01:36:02.881 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+00:39:07.471 INFO  ####  SERVER INITIALIZING  #### 
+00:39:07.471 INFO  ####  LOADING MODULES  ####
+ 
+00:39:07.471 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+00:39:07.490 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+00:39:07.490 INFO  ####  LOADING  EXPRESS #### 
+00:39:07.498 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+00:39:07.498 INFO  #### EXPRESS LOADED #### 
+00:39:07.498 INFO  ####  LOADING  MONGOOSE #### 
+00:39:07.691 INFO  #### MONGOOSE LOADED #### 
+00:39:07.713 INFO  #### ( get_data ) Event Scheduled  ####
+ 
+00:39:07.714 INFO  Listening on PORT: 5000 
+00:39:07.715 INFO  ####  SERVER INITIALIZED   #### 
+01:39:11.644 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+00:40:39.990 INFO  ####  SERVER INITIALIZING  #### 
+00:40:39.990 INFO  ####  LOADING MODULES  ####
+ 
+00:40:39.990 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+00:40:40.037 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+00:40:40.037 INFO  ####  LOADING  EXPRESS #### 
+00:40:40.043 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+00:40:40.043 INFO  #### EXPRESS LOADED #### 
+00:40:40.044 INFO  ####  LOADING  MONGOOSE #### 
+00:40:40.247 INFO  #### MONGOOSE LOADED #### 
+00:40:40.269 INFO  #### ( get_data ) Event Scheduled  ####
+ 
+00:40:40.270 INFO  Listening on PORT: 5000 
+00:40:40.271 INFO  ####  SERVER INITIALIZED   #### 
+01:40:45.810 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+00:41:35.323 INFO  ####  SERVER INITIALIZING  #### 
+00:41:35.323 INFO  ####  LOADING MODULES  ####
+ 
+00:41:35.323 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+00:41:35.342 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+00:41:35.342 INFO  ####  LOADING  EXPRESS #### 
+00:41:35.350 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+00:41:35.350 INFO  #### EXPRESS LOADED #### 
+00:41:35.351 INFO  ####  LOADING  MONGOOSE #### 
+00:41:35.542 INFO  #### MONGOOSE LOADED #### 
+00:41:35.564 INFO  #### ( get_data ) Event Scheduled  ####
+ 
+00:41:35.565 INFO  Listening on PORT: 5000 
+00:41:35.566 INFO  ####  SERVER INITIALIZED   #### 
+01:41:38.985 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+00:42:18.900 INFO  ####  SERVER INITIALIZING  #### 
+00:42:18.900 INFO  ####  LOADING MODULES  ####
+ 
+00:42:18.900 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+00:42:18.920 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+00:42:18.920 INFO  ####  LOADING  EXPRESS #### 
+00:42:18.927 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+00:42:18.927 INFO  #### EXPRESS LOADED #### 
+00:42:18.927 INFO  ####  LOADING  MONGOOSE #### 
+00:42:19.125 INFO  #### MONGOOSE LOADED #### 
+00:42:19.146 INFO  #### ( get_data ) Event Scheduled  ####
+ 
+00:42:19.147 INFO  Listening on PORT: 5000 
+00:42:19.148 INFO  ####  SERVER INITIALIZED   #### 
+01:42:24.721 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+00:42:55.396 INFO  ####  SERVER INITIALIZING  #### 
+00:42:55.396 INFO  ####  LOADING MODULES  ####
+ 
+00:42:55.396 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+00:42:55.416 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+00:42:55.416 INFO  ####  LOADING  EXPRESS #### 
+00:42:55.422 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+00:42:55.422 INFO  #### EXPRESS LOADED #### 
+00:42:55.422 INFO  ####  LOADING  MONGOOSE #### 
+00:42:55.614 INFO  #### MONGOOSE LOADED #### 
+00:42:55.635 INFO  #### ( get_data ) Event Scheduled  ####
+ 
+00:42:55.636 INFO  Listening on PORT: 5000 
+00:42:55.637 INFO  ####  SERVER INITIALIZED   #### 
+01:42:59.209 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+00:44:06.245 INFO  ####  SERVER INITIALIZING  #### 
+00:44:06.245 INFO  ####  LOADING MODULES  ####
+ 
+00:44:06.245 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+00:44:06.264 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+00:44:06.264 INFO  ####  LOADING  EXPRESS #### 
+00:44:06.270 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+00:44:06.270 INFO  #### EXPRESS LOADED #### 
+00:44:06.270 INFO  ####  LOADING  MONGOOSE #### 
+00:44:06.452 INFO  #### MONGOOSE LOADED #### 
+00:44:06.472 INFO  #### ( get_data ) Event Scheduled  ####
+ 
+00:44:06.473 INFO  Listening on PORT: 5000 
+00:44:06.474 INFO  ####  SERVER INITIALIZED   #### 
+01:44:14.867 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+00:46:54.216 INFO  ####  SERVER INITIALIZING  #### 
+00:46:54.216 INFO  ####  LOADING MODULES  ####
+ 
+00:46:54.216 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+00:46:54.236 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+00:46:54.236 INFO  ####  LOADING  EXPRESS #### 
+00:46:54.243 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+00:46:54.243 INFO  #### EXPRESS LOADED #### 
+00:46:54.243 INFO  ####  LOADING  MONGOOSE #### 
+00:46:54.426 INFO  #### MONGOOSE LOADED #### 
+00:46:54.448 INFO  #### ( get_data ) Event Scheduled  ####
+ 
+00:46:54.450 INFO  Listening on PORT: 5000 
+00:46:54.451 INFO  ####  SERVER INITIALIZED   #### 
+01:46:58.135 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+00:48:55.967 INFO  ####  SERVER INITIALIZING  #### 
+00:48:55.968 INFO  ####  LOADING MODULES  ####
+ 
+00:48:55.968 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+00:48:55.986 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+00:48:55.986 INFO  ####  LOADING  EXPRESS #### 
+00:48:55.993 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+00:48:55.993 INFO  #### EXPRESS LOADED #### 
+00:48:55.993 INFO  ####  LOADING  MONGOOSE #### 
+00:48:56.183 INFO  #### MONGOOSE LOADED #### 
+00:48:56.202 INFO  #### ( get_data ) Event Scheduled  ####
+ 
+00:48:56.203 INFO  Listening on PORT: 5000 
+00:48:56.204 INFO  ####  SERVER INITIALIZED   #### 
+01:49:00.120 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+00:51:33.943 INFO  ####  SERVER INITIALIZING  #### 
+00:51:33.943 INFO  ####  LOADING MODULES  ####
+ 
+00:51:33.943 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+00:51:33.964 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+00:51:33.964 INFO  ####  LOADING  EXPRESS #### 
+00:51:33.973 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+00:51:33.973 INFO  #### EXPRESS LOADED #### 
+00:51:33.973 INFO  ####  LOADING  MONGOOSE #### 
+00:51:34.171 INFO  #### MONGOOSE LOADED #### 
+00:51:34.191 INFO  #### ( get_data ) Event Scheduled  ####
+ 
+00:51:34.192 INFO  Listening on PORT: 5000 
+00:51:34.193 INFO  ####  SERVER INITIALIZED   #### 
+00:51:42.466 INFO  ####  SERVER INITIALIZING  #### 
+00:51:42.466 INFO  ####  LOADING MODULES  ####
+ 
+00:51:42.466 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+00:51:42.484 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+00:51:42.484 INFO  ####  LOADING  EXPRESS #### 
+00:51:42.491 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+00:51:42.491 INFO  #### EXPRESS LOADED #### 
+00:51:42.491 INFO  ####  LOADING  MONGOOSE #### 
+00:51:42.666 INFO  #### MONGOOSE LOADED #### 
+00:51:42.686 INFO  #### ( get_data ) Event Scheduled  ####
+ 
+00:51:42.687 INFO  Listening on PORT: 5000 
+00:51:42.688 INFO  ####  SERVER INITIALIZED   #### 
+01:51:51.982 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+00:52:18.276 INFO  ####  SERVER INITIALIZING  #### 
+00:52:18.276 INFO  ####  LOADING MODULES  ####
+ 
+00:52:18.277 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+00:52:18.298 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+00:52:18.298 INFO  ####  LOADING  EXPRESS #### 
+00:52:18.306 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+00:52:18.306 INFO  #### EXPRESS LOADED #### 
+00:52:18.306 INFO  ####  LOADING  MONGOOSE #### 
+00:52:18.495 INFO  #### MONGOOSE LOADED #### 
+00:52:18.515 INFO  #### ( get_data ) Event Scheduled  ####
+ 
+00:52:18.516 INFO  Listening on PORT: 5000 
+00:52:18.517 INFO  ####  SERVER INITIALIZED   #### 
+01:52:24.846 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+00:54:04.047 INFO  ####  SERVER INITIALIZING  #### 
+00:54:04.048 INFO  ####  LOADING MODULES  ####
+ 
+00:54:04.048 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+00:54:04.068 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+00:54:04.068 INFO  ####  LOADING  EXPRESS #### 
+00:54:04.075 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+00:54:04.075 INFO  #### EXPRESS LOADED #### 
+00:54:04.075 INFO  ####  LOADING  MONGOOSE #### 
+00:54:04.259 INFO  #### MONGOOSE LOADED #### 
+00:54:04.282 INFO  #### ( get_data ) Event Scheduled  ####
+ 
+00:54:04.283 INFO  Listening on PORT: 5000 
+00:54:04.285 INFO  ####  SERVER INITIALIZED   #### 
+00:54:31.744 INFO  ####  SERVER INITIALIZING  #### 
+00:54:31.744 INFO  ####  LOADING MODULES  ####
+ 
+00:54:31.744 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+00:54:31.764 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+00:54:31.764 INFO  ####  LOADING  EXPRESS #### 
+00:54:31.771 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+00:54:31.771 INFO  #### EXPRESS LOADED #### 
+00:54:31.771 INFO  ####  LOADING  MONGOOSE #### 
+00:54:31.961 INFO  #### MONGOOSE LOADED #### 
+00:54:31.981 INFO  #### ( get_data ) Event Scheduled  ####
+ 
+00:54:31.982 INFO  Listening on PORT: 5000 
+00:54:31.983 INFO  ####  SERVER INITIALIZED   #### 
+01:54:35.434 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+00:55:37.416 INFO  ####  SERVER INITIALIZING  #### 
+00:55:37.417 INFO  ####  LOADING MODULES  ####
+ 
+00:55:37.417 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+00:55:37.436 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+00:55:37.436 INFO  ####  LOADING  EXPRESS #### 
+00:55:37.445 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+00:55:37.445 INFO  #### EXPRESS LOADED #### 
+00:55:37.445 INFO  ####  LOADING  MONGOOSE #### 
+00:55:37.638 INFO  #### MONGOOSE LOADED #### 
+00:55:37.661 INFO  #### ( get_data ) Event Scheduled  ####
+ 
+00:55:37.663 INFO  Listening on PORT: 5000 
+00:55:37.664 INFO  ####  SERVER INITIALIZED   #### 
+01:55:44.959 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+01:00:03.490 INFO  GET_DATA ACCOMPLISHED 
+01:02:44.722 INFO  ####  SERVER INITIALIZING  #### 
+01:02:44.722 INFO  ####  LOADING MODULES  ####
+ 
+01:02:44.722 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+01:02:44.740 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+01:02:44.740 INFO  ####  LOADING  EXPRESS #### 
+01:02:44.748 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+01:02:44.748 INFO  #### EXPRESS LOADED #### 
+01:02:44.748 INFO  ####  LOADING  MONGOOSE #### 
+01:02:44.935 INFO  #### MONGOOSE LOADED #### 
+01:02:44.955 INFO  #### ( get_data ) Event Scheduled  ####
+ 
+01:02:44.956 INFO  Listening on PORT: 5000 
+01:02:44.957 INFO  ####  SERVER INITIALIZED   #### 
+02:02:48.410 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+01:04:05.629 INFO  ####  SERVER INITIALIZING  #### 
+01:04:05.629 INFO  ####  LOADING MODULES  ####
+ 
+01:04:05.629 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+01:04:05.651 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+01:04:05.651 INFO  ####  LOADING  EXPRESS #### 
+01:04:05.659 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+01:04:05.660 INFO  #### EXPRESS LOADED #### 
+01:04:05.660 INFO  ####  LOADING  MONGOOSE #### 
+01:04:05.859 INFO  #### MONGOOSE LOADED #### 
+01:04:05.884 INFO  #### ( get_data ) Event Scheduled  ####
+ 
+01:04:05.885 INFO  Listening on PORT: 5000 
+01:04:05.886 INFO  ####  SERVER INITIALIZED   #### 
+02:04:13.711 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+02:08:42.622 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+02:09:04.351 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+02:09:41.153 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+02:11:53.885 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+01:12:47.558 INFO  ####  SERVER INITIALIZING  #### 
+01:12:47.558 INFO  ####  LOADING MODULES  ####
+ 
+01:12:47.558 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+01:12:47.576 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+01:12:47.576 INFO  ####  LOADING  EXPRESS #### 
+01:12:47.582 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+01:12:47.583 INFO  #### EXPRESS LOADED #### 
+01:12:47.583 INFO  ####  LOADING  MONGOOSE #### 
+01:12:47.754 INFO  #### MONGOOSE LOADED #### 
+01:12:47.773 INFO  #### ( get_data ) Event Scheduled  ####
+ 
+01:12:47.774 INFO  Listening on PORT: 5000 
+01:12:47.775 INFO  ####  SERVER INITIALIZED   #### 
+01:13:31.144 INFO  ####  SERVER INITIALIZING  #### 
+01:13:31.144 INFO  ####  LOADING MODULES  ####
+ 
+01:13:31.144 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+01:13:31.165 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+01:13:31.165 INFO  ####  LOADING  EXPRESS #### 
+01:13:31.172 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+01:13:31.172 INFO  #### EXPRESS LOADED #### 
+01:13:31.172 INFO  ####  LOADING  MONGOOSE #### 
+01:13:31.359 INFO  #### MONGOOSE LOADED #### 
+01:13:31.379 INFO  #### ( get_data ) Event Scheduled  ####
+ 
+01:13:31.380 INFO  Listening on PORT: 5000 
+01:13:31.382 INFO  ####  SERVER INITIALIZED   #### 
+02:13:34.964 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+01:13:53.742 INFO  ####  SERVER INITIALIZING  #### 
+01:13:53.742 INFO  ####  LOADING MODULES  ####
+ 
+01:13:53.742 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+01:13:53.759 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+01:13:53.760 INFO  ####  LOADING  EXPRESS #### 
+01:13:53.766 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+01:13:53.766 INFO  #### EXPRESS LOADED #### 
+01:13:53.766 INFO  ####  LOADING  MONGOOSE #### 
+01:13:53.947 INFO  #### MONGOOSE LOADED #### 
+01:13:53.967 INFO  #### ( get_data ) Event Scheduled  ####
+ 
+01:13:53.968 INFO  Listening on PORT: 5000 
+01:13:53.969 INFO  ####  SERVER INITIALIZED   #### 
+02:13:57.301 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+01:15:36.269 INFO  ####  SERVER INITIALIZING  #### 
+01:15:36.270 INFO  ####  LOADING MODULES  ####
+ 
+01:15:36.270 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+01:15:36.288 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+01:15:36.288 INFO  ####  LOADING  EXPRESS #### 
+01:15:36.295 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+01:15:36.295 INFO  #### EXPRESS LOADED #### 
+01:15:36.295 INFO  ####  LOADING  MONGOOSE #### 
+01:15:36.482 INFO  #### MONGOOSE LOADED #### 
+01:15:36.501 INFO  #### ( get_data ) Event Scheduled  ####
+ 
+01:15:36.502 INFO  Listening on PORT: 5000 
+01:15:36.503 INFO  ####  SERVER INITIALIZED   #### 
+02:15:40.227 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+01:15:59.337 INFO  ####  SERVER INITIALIZING  #### 
+01:15:59.337 INFO  ####  LOADING MODULES  ####
+ 
+01:15:59.337 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+01:15:59.355 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+01:15:59.355 INFO  ####  LOADING  EXPRESS #### 
+01:15:59.361 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+01:15:59.361 INFO  #### EXPRESS LOADED #### 
+01:15:59.361 INFO  ####  LOADING  MONGOOSE #### 
+01:15:59.557 INFO  #### MONGOOSE LOADED #### 
+01:15:59.578 INFO  #### ( get_data ) Event Scheduled  ####
+ 
+01:15:59.579 INFO  Listening on PORT: 5000 
+01:15:59.580 INFO  ####  SERVER INITIALIZED   #### 
+02:16:03.260 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+01:17:16.114 INFO  ####  SERVER INITIALIZING  #### 
+01:17:16.114 INFO  ####  LOADING MODULES  ####
+ 
+01:17:16.114 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+01:17:16.132 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+01:17:16.132 INFO  ####  LOADING  EXPRESS #### 
+01:17:16.138 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+01:17:16.138 INFO  #### EXPRESS LOADED #### 
+01:17:16.138 INFO  ####  LOADING  MONGOOSE #### 
+01:17:16.313 INFO  #### MONGOOSE LOADED #### 
+01:17:16.332 INFO  #### ( get_data ) Event Scheduled  ####
+ 
+01:17:16.333 INFO  Listening on PORT: 5000 
+01:17:16.335 INFO  ####  SERVER INITIALIZED   #### 
+01:17:35.798 INFO  ####  SERVER INITIALIZING  #### 
+01:17:35.798 INFO  ####  LOADING MODULES  ####
+ 
+01:17:35.798 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+01:17:35.817 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+01:17:35.817 INFO  ####  LOADING  EXPRESS #### 
+01:17:35.823 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+01:17:35.824 INFO  #### EXPRESS LOADED #### 
+01:17:35.824 INFO  ####  LOADING  MONGOOSE #### 
+01:17:36.024 INFO  #### MONGOOSE LOADED #### 
+01:17:36.046 INFO  #### ( get_data ) Event Scheduled  ####
+ 
+01:17:36.047 INFO  Listening on PORT: 5000 
+01:17:36.048 INFO  ####  SERVER INITIALIZED   #### 
+01:17:53.684 INFO  ####  SERVER INITIALIZING  #### 
+01:17:53.684 INFO  ####  LOADING MODULES  ####
+ 
+01:17:53.684 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+01:17:53.702 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+01:17:53.702 INFO  ####  LOADING  EXPRESS #### 
+01:17:53.708 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+01:17:53.708 INFO  #### EXPRESS LOADED #### 
+01:17:53.708 INFO  ####  LOADING  MONGOOSE #### 
+01:17:53.889 INFO  #### MONGOOSE LOADED #### 
+01:17:53.909 INFO  #### ( get_data ) Event Scheduled  ####
+ 
+01:17:53.909 INFO  Listening on PORT: 5000 
+01:17:53.911 INFO  ####  SERVER INITIALIZED   #### 
+02:17:56.821 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+01:18:28.839 INFO  ####  SERVER INITIALIZING  #### 
+01:18:28.839 INFO  ####  LOADING MODULES  ####
+ 
+01:18:28.839 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+01:18:28.857 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+01:18:28.857 INFO  ####  LOADING  EXPRESS #### 
+01:18:28.864 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+01:18:28.864 INFO  #### EXPRESS LOADED #### 
+01:18:28.864 INFO  ####  LOADING  MONGOOSE #### 
+01:18:29.048 INFO  #### MONGOOSE LOADED #### 
+01:18:29.068 INFO  #### ( get_data ) Event Scheduled  ####
+ 
+01:18:29.069 INFO  Listening on PORT: 5000 
+01:18:29.070 INFO  ####  SERVER INITIALIZED   #### 
+02:18:34.212 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+01:21:00.305 INFO  ####  SERVER INITIALIZING  #### 
+01:21:00.305 INFO  ####  LOADING MODULES  ####
+ 
+01:21:00.305 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+01:21:00.323 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+01:21:00.323 INFO  ####  LOADING  EXPRESS #### 
+01:21:00.331 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+01:21:00.331 INFO  #### EXPRESS LOADED #### 
+01:21:00.331 INFO  ####  LOADING  MONGOOSE #### 
+01:21:00.522 INFO  #### MONGOOSE LOADED #### 
+01:21:00.543 INFO  #### ( get_data ) Event Scheduled  ####
+ 
+01:21:00.545 INFO  Listening on PORT: 5000 
+01:21:00.550 INFO  ####  SERVER INITIALIZED   #### 
+02:21:06.768 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+01:21:33.507 INFO  ####  SERVER INITIALIZING  #### 
+01:21:33.507 INFO  ####  LOADING MODULES  ####
+ 
+01:21:33.507 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+01:21:33.524 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+01:21:33.524 INFO  ####  LOADING  EXPRESS #### 
+01:21:33.531 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+01:21:33.531 INFO  #### EXPRESS LOADED #### 
+01:21:33.531 INFO  ####  LOADING  MONGOOSE #### 
+01:21:33.708 INFO  #### MONGOOSE LOADED #### 
+01:21:33.726 INFO  #### ( get_data ) Event Scheduled  ####
+ 
+01:21:33.727 INFO  Listening on PORT: 5000 
+01:21:33.728 INFO  ####  SERVER INITIALIZED   #### 
+02:21:40.978 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+01:28:47.087 INFO  ####  SERVER INITIALIZING  #### 
+01:28:47.087 INFO  ####  LOADING MODULES  ####
+ 
+01:28:47.087 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+01:28:47.110 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+01:28:47.110 INFO  ####  LOADING  EXPRESS #### 
+01:28:47.116 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+01:28:47.117 INFO  #### EXPRESS LOADED #### 
+01:28:47.117 INFO  ####  LOADING  MONGOOSE #### 
+01:28:47.310 INFO  #### MONGOOSE LOADED #### 
+01:28:47.333 INFO  #### ( get_data ) Event Scheduled  ####
+ 
+01:28:47.334 INFO  Listening on PORT: 5000 
+01:28:47.337 INFO  ####  SERVER INITIALIZED   #### 
+02:28:50.179 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+01:30:33.528 INFO  ####  SERVER INITIALIZING  #### 
+01:30:33.528 INFO  ####  LOADING MODULES  ####
+ 
+01:30:33.528 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+01:30:33.534 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+01:30:33.534 INFO  ####  LOADING  EXPRESS #### 
+01:30:33.535 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+01:30:33.535 INFO  #### EXPRESS LOADED #### 
+01:30:33.535 INFO  ####  LOADING  MONGOOSE #### 
+01:30:33.565 INFO  #### MONGOOSE LOADED #### 
+01:30:33.570 INFO  #### ( get_data ) Event Scheduled  ####
+ 
+01:30:33.570 INFO  Listening on PORT: 5000 
+01:30:33.571 INFO  ####  SERVER INITIALIZED   #### 
+01:30:48.614 INFO  ####  SERVER INITIALIZING  #### 
+01:30:48.614 INFO  ####  LOADING MODULES  ####
+ 
+01:30:48.614 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+01:30:48.618 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+01:30:48.618 INFO  ####  LOADING  EXPRESS #### 
+01:30:48.620 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+01:30:48.620 INFO  #### EXPRESS LOADED #### 
+01:30:48.620 INFO  ####  LOADING  MONGOOSE #### 
+01:30:48.651 INFO  #### MONGOOSE LOADED #### 
+01:30:48.655 INFO  #### ( get_data ) Event Scheduled  ####
+ 
+01:30:48.656 INFO  Listening on PORT: 5000 
+01:30:48.656 INFO  ####  SERVER INITIALIZED   #### 
+02:30:51.433 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+01:31:22.917 INFO  ####  SERVER INITIALIZING  #### 
+01:31:22.917 INFO  ####  LOADING MODULES  ####
+ 
+01:31:22.917 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+01:31:22.921 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+01:31:22.921 INFO  ####  LOADING  EXPRESS #### 
+01:31:22.923 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+01:31:22.923 INFO  #### EXPRESS LOADED #### 
+01:31:22.923 INFO  ####  LOADING  MONGOOSE #### 
+01:31:22.956 INFO  #### MONGOOSE LOADED #### 
+01:31:22.962 INFO  #### ( get_data ) Event Scheduled  ####
+ 
+01:31:22.962 INFO  Listening on PORT: 5000 
+01:31:22.963 INFO  ####  SERVER INITIALIZED   #### 
+02:31:25.588 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+01:32:11.079 INFO  ####  SERVER INITIALIZING  #### 
+01:32:11.079 INFO  ####  LOADING MODULES  ####
+ 
+01:32:11.079 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+01:32:11.083 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+01:32:11.083 INFO  ####  LOADING  EXPRESS #### 
+01:32:11.085 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+01:32:11.085 INFO  #### EXPRESS LOADED #### 
+01:32:11.085 INFO  ####  LOADING  MONGOOSE #### 
+01:32:11.116 INFO  #### MONGOOSE LOADED #### 
+01:32:11.122 INFO  #### ( get_data ) Event Scheduled  ####
+ 
+01:32:11.122 INFO  Listening on PORT: 5000 
+01:32:11.122 INFO  ####  SERVER INITIALIZED   #### 
+02:32:13.620 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+01:32:21.733 INFO  ####  SERVER INITIALIZING  #### 
+01:32:21.733 INFO  ####  LOADING MODULES  ####
+ 
+01:32:21.733 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+01:32:21.738 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+01:32:21.738 INFO  ####  LOADING  EXPRESS #### 
+01:32:21.739 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+01:32:21.739 INFO  #### EXPRESS LOADED #### 
+01:32:21.739 INFO  ####  LOADING  MONGOOSE #### 
+01:32:21.772 INFO  #### MONGOOSE LOADED #### 
+01:32:21.777 INFO  #### ( get_data ) Event Scheduled  ####
+ 
+01:32:21.777 INFO  Listening on PORT: 5000 
+01:32:21.777 INFO  ####  SERVER INITIALIZED   #### 
+01:32:24.533 INFO  ####  SERVER INITIALIZING  #### 
+01:32:24.533 INFO  ####  LOADING MODULES  ####
+ 
+01:32:24.533 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+01:32:24.537 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+01:32:24.537 INFO  ####  LOADING  EXPRESS #### 
+01:32:24.539 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+01:32:24.539 INFO  #### EXPRESS LOADED #### 
+01:32:24.539 INFO  ####  LOADING  MONGOOSE #### 
+01:32:24.569 INFO  #### MONGOOSE LOADED #### 
+01:32:24.574 INFO  #### ( get_data ) Event Scheduled  ####
+ 
+01:32:24.574 INFO  Listening on PORT: 5000 
+01:32:24.575 INFO  ####  SERVER INITIALIZED   #### 
+02:32:36.223 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+01:32:54.065 INFO  ####  SERVER INITIALIZING  #### 
+01:32:54.065 INFO  ####  LOADING MODULES  ####
+ 
+01:32:54.065 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+01:32:54.070 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+01:32:54.070 INFO  ####  LOADING  EXPRESS #### 
+01:32:54.072 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+01:32:54.072 INFO  #### EXPRESS LOADED #### 
+01:32:54.072 INFO  ####  LOADING  MONGOOSE #### 
+01:32:54.103 INFO  #### MONGOOSE LOADED #### 
+01:32:54.108 INFO  #### ( get_data ) Event Scheduled  ####
+ 
+01:32:54.108 INFO  Listening on PORT: 5000 
+01:32:54.108 INFO  ####  SERVER INITIALIZED   #### 
+02:33:42.949 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+02:33:52.954 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+01:34:54.781 INFO  ####  SERVER INITIALIZING  #### 
+01:34:54.781 INFO  ####  LOADING MODULES  ####
+ 
+01:34:54.781 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+01:34:54.786 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+01:34:54.786 INFO  ####  LOADING  EXPRESS #### 
+01:34:54.787 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+01:34:54.788 INFO  #### EXPRESS LOADED #### 
+01:34:54.788 INFO  ####  LOADING  MONGOOSE #### 
+01:34:54.819 INFO  #### MONGOOSE LOADED #### 
+01:34:54.824 INFO  #### ( get_data ) Event Scheduled  ####
+ 
+01:34:54.824 INFO  Listening on PORT: 5000 
+01:34:54.825 INFO  ####  SERVER INITIALIZED   #### 
+02:34:58.741 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+01:35:21.205 INFO  ####  SERVER INITIALIZING  #### 
+01:35:21.205 INFO  ####  LOADING MODULES  ####
+ 
+01:35:21.205 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+01:35:21.209 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+01:35:21.209 INFO  ####  LOADING  EXPRESS #### 
+01:35:21.211 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+01:35:21.211 INFO  #### EXPRESS LOADED #### 
+01:35:21.211 INFO  ####  LOADING  MONGOOSE #### 
+01:35:21.246 INFO  #### MONGOOSE LOADED #### 
+01:35:21.251 INFO  #### ( get_data ) Event Scheduled  ####
+ 
+01:35:21.251 INFO  Listening on PORT: 5000 
+01:35:21.252 INFO  ####  SERVER INITIALIZED   #### 
+01:35:34.963 INFO  ####  SERVER INITIALIZING  #### 
+01:35:34.963 INFO  ####  LOADING MODULES  ####
+ 
+01:35:34.963 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+01:35:34.968 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+01:35:34.968 INFO  ####  LOADING  EXPRESS #### 
+01:35:34.970 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+01:35:34.970 INFO  #### EXPRESS LOADED #### 
+01:35:34.970 INFO  ####  LOADING  MONGOOSE #### 
+01:35:35.002 INFO  #### MONGOOSE LOADED #### 
+01:35:35.007 INFO  #### ( get_data ) Event Scheduled  ####
+ 
+01:35:35.008 INFO  Listening on PORT: 5000 
+01:35:35.008 INFO  ####  SERVER INITIALIZED   #### 

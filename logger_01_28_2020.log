@@ -1,0 +1,71 @@
+23:09:26.540 INFO  ####  SERVER INITIALIZING  #### 
+23:09:26.540 INFO  ####  LOADING MODULES  ####
+ 
+23:09:26.540 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+23:09:26.545 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+23:09:26.545 INFO  ####  LOADING  EXPRESS #### 
+23:09:26.547 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+23:09:26.547 INFO  #### EXPRESS LOADED #### 
+23:09:26.547 INFO  ####  LOADING  MONGOOSE #### 
+23:10:12.863 INFO  {"status":"FAILURE","message":{"message":"Server selection timed out after 30000 ms","name":"MongooseTimeoutError","reason":{"name":"MongoNetworkError"}}} 
+23:10:38.816 INFO  ####  SERVER INITIALIZING  #### 
+23:10:38.816 INFO  ####  LOADING MODULES  ####
+ 
+23:10:38.816 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+23:10:38.821 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+23:10:38.821 INFO  ####  LOADING  EXPRESS #### 
+23:10:38.822 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+23:10:38.822 INFO  #### EXPRESS LOADED #### 
+23:10:38.822 INFO  ####  LOADING  MONGOOSE #### 
+23:10:38.852 INFO  #### MONGOOSE LOADED #### 
+23:10:38.862 INFO  #### ( get_data ) Event Scheduled  ####
+ 
+23:10:38.862 INFO  Listening on PORT: 5000 
+23:10:38.863 INFO  ####  SERVER INITIALIZED   #### 
+23:11:50.904 INFO  ####  SERVER INITIALIZING  #### 
+23:11:50.904 INFO  ####  LOADING MODULES  ####
+ 
+23:11:50.904 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+23:11:50.909 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+23:11:50.909 INFO  ####  LOADING  EXPRESS #### 
+23:11:50.911 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+23:11:50.911 INFO  #### EXPRESS LOADED #### 
+23:11:50.911 INFO  ####  LOADING  MONGOOSE #### 
+23:11:50.941 INFO  #### MONGOOSE LOADED #### 
+23:11:50.953 INFO  #### ( get_data ) Event Scheduled  ####
+ 
+23:11:50.953 INFO  Listening on PORT: 5000 
+23:11:50.953 INFO  ####  SERVER INITIALIZED   #### 
+23:12:58.241 INFO  ####  SERVER INITIALIZING  #### 
+23:12:58.241 INFO  ####  LOADING MODULES  ####
+ 
+23:12:58.241 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+23:12:58.246 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+23:12:58.246 INFO  ####  LOADING  EXPRESS #### 
+23:12:58.247 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+23:12:58.247 INFO  #### EXPRESS LOADED #### 
+23:12:58.247 INFO  ####  LOADING  MONGOOSE #### 
+23:12:58.277 INFO  #### MONGOOSE LOADED #### 
+23:12:58.284 INFO  #### ( get_data ) Event Scheduled  ####
+ 
+23:12:58.285 INFO  Listening on PORT: 5000 
+23:12:58.285 INFO  ####  SERVER INITIALIZED   #### 
+23:19:44.908 INFO  ####  SERVER INITIALIZING  #### 
+23:19:44.908 INFO  ####  LOADING MODULES  ####
+ 
+23:19:44.908 INFO  ####  LOADING ENVIRONMENT VARIABLES  #### 
+23:19:44.913 INFO  ####  ENVIRONMENT VARIABLES LOADED  #### 
+23:19:44.913 INFO  ####  LOADING  EXPRESS #### 
+23:19:44.915 INFO  #### ( log_rotate ) LOG ROTATE Scheduled  ####
+ 
+23:19:44.915 INFO  #### EXPRESS LOADED #### 
+23:19:44.915 INFO  ####  LOADING  MONGOOSE #### 
+23:19:44.946 INFO  #### MONGOOSE LOADED #### 
+23:19:44.956 INFO  #### ( get_data ) Event Scheduled  ####
+ 
+23:19:44.956 INFO  Listening on PORT: 5000 
+23:19:44.957 INFO  ####  SERVER INITIALIZED   #### 
