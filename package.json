@@ -27,7 +27,7 @@
     "chai-http": "^4.3.0",
     "chai-json-equal": "0.0.1",
     "deep-equal-in-any-order": "^1.0.21",
-    "mocha": "^7.0.1",
+    "mocha": "^10.2.0",
     "nodemon": "^2.0.2"
   }
 }
